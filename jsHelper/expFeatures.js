@@ -1,6 +1,6 @@
 (function () {
 	let overrideList,
-		prevSessionOverrideList = [],
+		prevSessionOverrideList = [], //test
 		newFeatures = [],
 		hooksPatched = false,
 		featureMap = {},
